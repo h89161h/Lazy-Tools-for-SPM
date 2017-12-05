@@ -1,5 +1,5 @@
-% In SPM preprocessing
-% We make some folders to store the steps of data processing
+% In SPM (statistical parametric mapping),
+% Usually, we make some folders to save data processing steps
 % For example, There ara a lot of subfolders (e.g. Sub001,Sub002,....) under FolderToCloned(e.g. Rawdata)
 % And then I want to create a NewFolder(e.g. Preprocesing) with a lot of empty subfolders which have the same names as those in FolderToCloned
 
