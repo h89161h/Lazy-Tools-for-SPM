@@ -4,8 +4,8 @@
 % And then I want to create a NewFolder(e.g. Preprocesing) with a lot of empty subfolders which have the same names as those in FolderToCloned
 
 %-----Depend on you needs-----%
-FolderToCloned ='E:\Rawdata'; %%the folder to be cloned
-NewFolder = 'E:\Preprocessing'; %%the folder to be created
+FolderToCloned ='E:\Rawdata'; % the folder to be cloned
+NewFolder = 'E:\Preprocessing'; % the folder to be created
 
 %-----Main code-----%
 files = dir(FolderToCloned);
